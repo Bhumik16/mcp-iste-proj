@@ -1,0 +1,17 @@
+{
+  "name": "js-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with good UI built using vanilla JavaScript, HTML, and CSS.",
+  "main": "script.js",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser to run the calculator.'"
+  },
+  "keywords": [
+    "javascript",
+    "calculator",
+    "ui",
+    "frontend"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
